@@ -1,0 +1,8 @@
+streamlit>=1.38
+polars>=1.9
+fastexcel>=0.12
+duckdb>=1.1
+pandas>=2.2
+pyarrow>=17
+plotly>=5.24
+openpyxl>=3.1
